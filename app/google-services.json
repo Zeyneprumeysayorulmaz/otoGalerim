@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955974286518",
+    "firebase_url": "https://otogalerim-e387f.firebaseio.com",
+    "project_id": "otogalerim-e387f",
+    "storage_bucket": "otogalerim-e387f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955974286518:android:7a6db36a96ea01cb1bba17",
+        "android_client_info": {
+          "package_name": "com.example.mk.otogalerim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955974286518-au8c6a093440qivreb4tqg2p7dml3n8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mk.otogalerim",
+            "certificate_hash": "eec6e3f38b7dbd8bb4c66f1f91ad4faaf2f503d8"
+          }
+        },
+        {
+          "client_id": "955974286518-825jqhegrobj96f4qd78aki1ha0c260q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RPPbf6L3RbkfWCFYkmVGxln3SY0WljM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955974286518-825jqhegrobj96f4qd78aki1ha0c260q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
